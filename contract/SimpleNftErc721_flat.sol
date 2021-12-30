@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 
-// Amended by HashLips
+// Amended by HashLips and RedVelvet
 /**
     !Disclaimer!
     These contracts have been used to create tutorials,
