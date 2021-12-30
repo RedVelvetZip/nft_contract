@@ -51,6 +51,7 @@ build/Release
 
 build/
 dist/
+contract/info/
 node_modules/
 jspm_packages/
 
